@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "mode": "full",
+        "num_episodes": 100,
+        "checkpoint_A": "results/full/agent_models/agent_A_ep5000.pth",
+        "checkpoint_B": "results/full/agent_models/agent_B_ep5000.pth",
+        "dueling_dqn": false
+    },
+    "standard_evaluation": {
+        "success_rate": 0.0,
+        "avg_reward": 85.29999999999997,
+        "avg_steps": 50.0
+    },
+    "communication_analysis": {
+        "agent_A": {
+            "mean_comm_out": 0.0,
+            "std_comm_out": 0.0,
+            "max_comm_out": 0.0
+        },
+        "agent_B": {
+            "mean_comm_out": 2.0505010088886437e-28,
+            "std_comm_out": 6.355520431313164e-28,
+            "max_comm_out": 3.9399338206892666e-27
+        }
+    },
+    "generalization": {
+        "config_1": {
+            "target": [
+                9,
+                9
+            ],
+            "start_A": [
+                5,
+                5
+            ],
+            "start_B": [
+                1,
+                8
+            ],
+            "success_rate": 0.0
+        },
+        "config_2": {
+            "target": [
+                1,
+                1
+            ],
+            "start_A": [
+                2,
+                1
+            ],
+            "start_B": [
+                6,
+                4
+            ],
+            "success_rate": 0.0
+        },
+        "config_3": {
+            "target": [
+                4,
+                9
+            ],
+            "start_A": [
+                0,
+                0
+            ],
+            "start_B": [
+                9,
+                0
+            ],
+            "success_rate": 0.0
+        }
+    }
+}

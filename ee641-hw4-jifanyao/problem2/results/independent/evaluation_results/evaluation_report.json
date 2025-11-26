@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "mode": "independent",
+        "num_episodes": 100,
+        "checkpoint_A": "results/independent/agent_models/agent_A_ep5000.pth",
+        "checkpoint_B": "results/independent/agent_models/agent_B_ep5000.pth",
+        "dueling_dqn": false
+    },
+    "standard_evaluation": {
+        "success_rate": 0.0,
+        "avg_reward": 85.29999999999997,
+        "avg_steps": 50.0
+    },
+    "communication_analysis": {
+        "message": "Not applicable for independent mode."
+    },
+    "generalization": {
+        "config_1": {
+            "target": [
+                9,
+                9
+            ],
+            "start_A": [
+                5,
+                5
+            ],
+            "start_B": [
+                1,
+                8
+            ],
+            "success_rate": 0.0
+        },
+        "config_2": {
+            "target": [
+                1,
+                1
+            ],
+            "start_A": [
+                2,
+                1
+            ],
+            "start_B": [
+                6,
+                4
+            ],
+            "success_rate": 0.0
+        },
+        "config_3": {
+            "target": [
+                4,
+                9
+            ],
+            "start_A": [
+                0,
+                0
+            ],
+            "start_B": [
+                9,
+                0
+            ],
+            "success_rate": 0.0
+        }
+    }
+}

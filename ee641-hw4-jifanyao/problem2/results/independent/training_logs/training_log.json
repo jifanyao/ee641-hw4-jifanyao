@@ -1,0 +1,4002 @@
+[
+    {
+        "episode": 10,
+        "avg_reward": -3.7399999999999975,
+        "success_rate": 0.0,
+        "loss_A": 0.028327921391240272,
+        "loss_B": 0.01785251981066092,
+        "epsilon": 0.988125
+    },
+    {
+        "episode": 20,
+        "avg_reward": -4.159999999999998,
+        "success_rate": 0.0,
+        "loss_A": 0.09297355338186025,
+        "loss_B": 0.31725666352920234,
+        "epsilon": 0.97625
+    },
+    {
+        "episode": 30,
+        "avg_reward": -4.789999999999999,
+        "success_rate": 0.0,
+        "loss_A": 0.11266123947873712,
+        "loss_B": 3.130738671183586,
+        "epsilon": 0.964375
+    },
+    {
+        "episode": 40,
+        "avg_reward": -4.579999999999999,
+        "success_rate": 0.0,
+        "loss_A": 0.09712265847856179,
+        "loss_B": 10.739723478198052,
+        "epsilon": 0.9525
+    },
+    {
+        "episode": 50,
+        "avg_reward": -4.999999999999998,
+        "success_rate": 0.0,
+        "loss_A": 0.0812125849481672,
+        "loss_B": 18.458932875871657,
+        "epsilon": 0.940625
+    },
+    {
+        "episode": 60,
+        "avg_reward": -4.999999999999998,
+        "success_rate": 0.0,
+        "loss_A": 0.07460653426358477,
+        "loss_B": 28.00939193725586,
+        "epsilon": 0.92875
+    },
+    {
+        "episode": 70,
+        "avg_reward": -4.999999999999998,
+        "success_rate": 0.0,
+        "loss_A": 0.059106421033618975,
+        "loss_B": 46.475775128126145,
+        "epsilon": 0.916875
+    },
+    {
+        "episode": 80,
+        "avg_reward": -4.789999999999999,
+        "success_rate": 0.0,
+        "loss_A": 0.06063721063034609,
+        "loss_B": 62.93780499756336,
+        "epsilon": 0.905
+    },
+    {
+        "episode": 90,
+        "avg_reward": -0.7999999999999977,
+        "success_rate": 0.0,
+        "loss_A": 0.08060403185803443,
+        "loss_B": 86.99079531884193,
+        "epsilon": 0.8931250000000001
+    },
+    {
+        "episode": 100,
+        "avg_reward": -2.6899999999999977,
+        "success_rate": 0.0,
+        "loss_A": 0.1914680429296568,
+        "loss_B": 115.46481077075005,
+        "epsilon": 0.88125
+    },
+    {
+        "episode": 110,
+        "avg_reward": -0.379999999999998,
+        "success_rate": 0.0,
+        "loss_A": 0.4298364286795259,
+        "loss_B": 151.65238768935203,
+        "epsilon": 0.869375
+    },
+    {
+        "episode": 120,
+        "avg_reward": 0.6699999999999996,
+        "success_rate": 0.0,
+        "loss_A": 0.8330736398100853,
+        "loss_B": 176.24955868709088,
+        "epsilon": 0.8575
+    },
+    {
+        "episode": 130,
+        "avg_reward": -2.8999999999999995,
+        "success_rate": 0.0,
+        "loss_A": 1.6242480114623905,
+        "loss_B": 199.8201183400154,
+        "epsilon": 0.8456250000000001
+    },
+    {
+        "episode": 140,
+        "avg_reward": 1.3000000000000016,
+        "success_rate": 0.0,
+        "loss_A": 2.6966823301166296,
+        "loss_B": 235.80705761551857,
+        "epsilon": 0.83375
+    },
+    {
+        "episode": 150,
+        "avg_reward": 0.45999999999999763,
+        "success_rate": 0.0,
+        "loss_A": 4.494535782620311,
+        "loss_B": 278.18329021167756,
+        "epsilon": 0.821875
+    },
+    {
+        "episode": 160,
+        "avg_reward": 0.25000000000000056,
+        "success_rate": 0.0,
+        "loss_A": 6.779762620232999,
+        "loss_B": 345.4706747083664,
+        "epsilon": 0.81
+    },
+    {
+        "episode": 170,
+        "avg_reward": -3.5299999999999985,
+        "success_rate": 0.0,
+        "loss_A": 9.09639950914681,
+        "loss_B": 357.8027891497612,
+        "epsilon": 0.798125
+    },
+    {
+        "episode": 180,
+        "avg_reward": 0.8799999999999997,
+        "success_rate": 0.0,
+        "loss_A": 8.969956821188331,
+        "loss_B": 385.1447443137169,
+        "epsilon": 0.78625
+    },
+    {
+        "episode": 190,
+        "avg_reward": 9.08,
+        "success_rate": 0.1,
+        "loss_A": 10.87943331438303,
+        "loss_B": 404.0378259921074,
+        "epsilon": 0.77449375
+    },
+    {
+        "episode": 200,
+        "avg_reward": -1.849999999999999,
+        "success_rate": 0.0,
+        "loss_A": 19.954090299248694,
+        "loss_B": 459.75950683641435,
+        "epsilon": 0.76261875
+    },
+    {
+        "episode": 210,
+        "avg_reward": -1.43,
+        "success_rate": 0.0,
+        "loss_A": 25.008926273077726,
+        "loss_B": 468.3387498342991,
+        "epsilon": 0.75074375
+    },
+    {
+        "episode": 220,
+        "avg_reward": 3.8200000000000003,
+        "success_rate": 0.0,
+        "loss_A": 41.08150753062964,
+        "loss_B": 412.8633030270338,
+        "epsilon": 0.73886875
+    },
+    {
+        "episode": 230,
+        "avg_reward": 7.599999999999999,
+        "success_rate": 0.0,
+        "loss_A": 44.027087541043755,
+        "loss_B": 427.2482113972902,
+        "epsilon": 0.7269937500000001
+    },
+    {
+        "episode": 240,
+        "avg_reward": 6.129999999999997,
+        "success_rate": 0.0,
+        "loss_A": 68.8121025286913,
+        "loss_B": 415.9654639852047,
+        "epsilon": 0.71511875
+    },
+    {
+        "episode": 250,
+        "avg_reward": 8.23,
+        "success_rate": 0.0,
+        "loss_A": 78.99143714261055,
+        "loss_B": 449.03529928135873,
+        "epsilon": 0.70324375
+    },
+    {
+        "episode": 260,
+        "avg_reward": 11.799999999999995,
+        "success_rate": 0.0,
+        "loss_A": 99.9238689571619,
+        "loss_B": 473.9448325791359,
+        "epsilon": 0.6913687500000001
+    },
+    {
+        "episode": 270,
+        "avg_reward": 11.589999999999996,
+        "success_rate": 0.0,
+        "loss_A": 129.8568284473419,
+        "loss_B": 544.7812982196808,
+        "epsilon": 0.67949375
+    },
+    {
+        "episode": 280,
+        "avg_reward": 9.959999999999997,
+        "success_rate": 0.1,
+        "loss_A": 158.96164430058002,
+        "loss_B": 537.0610440571309,
+        "epsilon": 0.6678325
+    },
+    {
+        "episode": 290,
+        "avg_reward": 1.1700000000000004,
+        "success_rate": 0.1,
+        "loss_A": 207.0016705186367,
+        "loss_B": 533.3376055705547,
+        "epsilon": 0.6562425000000001
+    },
+    {
+        "episode": 300,
+        "avg_reward": 11.969999999999999,
+        "success_rate": 0.1,
+        "loss_A": 268.8780144314766,
+        "loss_B": 525.0303572468757,
+        "epsilon": 0.6443675
+    },
+    {
+        "episode": 310,
+        "avg_reward": 17.909999999999997,
+        "success_rate": 0.2,
+        "loss_A": 469.93666208934786,
+        "loss_B": 593.3445615752936,
+        "epsilon": 0.63273
+    },
+    {
+        "episode": 320,
+        "avg_reward": 26.90999999999999,
+        "success_rate": 0.2,
+        "loss_A": 611.4702910397053,
+        "loss_B": 593.3731130975485,
+        "epsilon": 0.6210212500000001
+    },
+    {
+        "episode": 330,
+        "avg_reward": 9.689999999999994,
+        "success_rate": 0.2,
+        "loss_A": 894.0007235364914,
+        "loss_B": 635.5216707670688,
+        "epsilon": 0.6093125
+    },
+    {
+        "episode": 340,
+        "avg_reward": 20.779999999999998,
+        "success_rate": 0.2,
+        "loss_A": 914.7615549907684,
+        "loss_B": 534.9860889360905,
+        "epsilon": 0.5980075
+    },
+    {
+        "episode": 350,
+        "avg_reward": 19.029999999999998,
+        "success_rate": 0.3,
+        "loss_A": 1228.5629833812714,
+        "loss_B": 590.291880862236,
+        "epsilon": 0.58663125
+    },
+    {
+        "episode": 360,
+        "avg_reward": 23.429999999999996,
+        "success_rate": 0.1,
+        "loss_A": 1424.0233500213624,
+        "loss_B": 598.2676153383255,
+        "epsilon": 0.5750412500000001
+    },
+    {
+        "episode": 370,
+        "avg_reward": 22.82,
+        "success_rate": 0.3,
+        "loss_A": 1592.0315382461547,
+        "loss_B": 580.593222284317,
+        "epsilon": 0.5636887500000001
+    },
+    {
+        "episode": 380,
+        "avg_reward": 20.199999999999996,
+        "success_rate": 0.0,
+        "loss_A": 1834.1344852581024,
+        "loss_B": 584.7477289512158,
+        "epsilon": 0.55181375
+    },
+    {
+        "episode": 390,
+        "avg_reward": 19.949999999999996,
+        "success_rate": 0.1,
+        "loss_A": 1707.4992203941345,
+        "loss_B": 535.0392236629724,
+        "epsilon": 0.53993875
+    },
+    {
+        "episode": 400,
+        "avg_reward": 22.509999999999994,
+        "success_rate": 0.0,
+        "loss_A": 1866.919009935379,
+        "loss_B": 516.3836845376492,
+        "epsilon": 0.52806375
+    },
+    {
+        "episode": 410,
+        "avg_reward": 14.11,
+        "success_rate": 0.0,
+        "loss_A": 2059.044649694443,
+        "loss_B": 552.7808555054664,
+        "epsilon": 0.51618875
+    },
+    {
+        "episode": 420,
+        "avg_reward": 33.529999999999994,
+        "success_rate": 0.3,
+        "loss_A": 1937.619952943802,
+        "loss_B": 527.0073641328812,
+        "epsilon": 0.5048362500000001
+    },
+    {
+        "episode": 430,
+        "avg_reward": 25.649999999999995,
+        "success_rate": 0.1,
+        "loss_A": 2116.717675481796,
+        "loss_B": 546.2631139984131,
+        "epsilon": 0.4930325000000001
+    },
+    {
+        "episode": 440,
+        "avg_reward": 19.93,
+        "success_rate": 0.1,
+        "loss_A": 2020.450669942856,
+        "loss_B": 486.56397613179684,
+        "epsilon": 0.48160875000000003
+    },
+    {
+        "episode": 450,
+        "avg_reward": 28.6,
+        "success_rate": 0.0,
+        "loss_A": 2081.7675982704163,
+        "loss_B": 502.8233823701143,
+        "epsilon": 0.46973375000000006
+    },
+    {
+        "episode": 460,
+        "avg_reward": 40.57,
+        "success_rate": 0.0,
+        "loss_A": 2435.155543138504,
+        "loss_B": 546.8058284075261,
+        "epsilon": 0.4578587500000001
+    },
+    {
+        "episode": 470,
+        "avg_reward": 25.659999999999997,
+        "success_rate": 0.0,
+        "loss_A": 2215.3101920051577,
+        "loss_B": 479.2689554542303,
+        "epsilon": 0.44598375
+    },
+    {
+        "episode": 480,
+        "avg_reward": 42.669999999999995,
+        "success_rate": 0.0,
+        "loss_A": 2330.495746866226,
+        "loss_B": 458.2711963944435,
+        "epsilon": 0.43410875000000004
+    },
+    {
+        "episode": 490,
+        "avg_reward": 34.07,
+        "success_rate": 0.1,
+        "loss_A": 2529.6305290603636,
+        "loss_B": 487.69426091313363,
+        "epsilon": 0.4223525
+    },
+    {
+        "episode": 500,
+        "avg_reward": 29.859999999999996,
+        "success_rate": 0.0,
+        "loss_A": 2696.0852976188658,
+        "loss_B": 520.6904466257096,
+        "epsilon": 0.41047750000000005
+    },
+    {
+        "episode": 510,
+        "avg_reward": 30.409999999999997,
+        "success_rate": 0.1,
+        "loss_A": 2579.38114471817,
+        "loss_B": 522.2391847882271,
+        "epsilon": 0.39900625
+    },
+    {
+        "episode": 520,
+        "avg_reward": 38.37999999999999,
+        "success_rate": 0.3,
+        "loss_A": 2217.5285093479156,
+        "loss_B": 435.84689725983145,
+        "epsilon": 0.3877012500000001
+    },
+    {
+        "episode": 530,
+        "avg_reward": 30.630000000000003,
+        "success_rate": 0.1,
+        "loss_A": 2244.9192365341187,
+        "loss_B": 460.5997827413082,
+        "epsilon": 0.37625375000000005
+    },
+    {
+        "episode": 540,
+        "avg_reward": 45.4,
+        "success_rate": 0.0,
+        "loss_A": 2192.043289874077,
+        "loss_B": 475.0845797290802,
+        "epsilon": 0.3643787500000001
+    },
+    {
+        "episode": 550,
+        "avg_reward": 33.989999999999995,
+        "success_rate": 0.1,
+        "loss_A": 1769.6586977910995,
+        "loss_B": 398.64268191075325,
+        "epsilon": 0.35293125000000003
+    },
+    {
+        "episode": 560,
+        "avg_reward": 38.42999999999999,
+        "success_rate": 0.1,
+        "loss_A": 1937.0362527894974,
+        "loss_B": 459.9197281270027,
+        "epsilon": 0.34155500000000005
+    },
+    {
+        "episode": 570,
+        "avg_reward": 32.38,
+        "success_rate": 0.0,
+        "loss_A": 1851.9872609424592,
+        "loss_B": 464.5002929728031,
+        "epsilon": 0.3296800000000001
+    },
+    {
+        "episode": 580,
+        "avg_reward": 36.36999999999999,
+        "success_rate": 0.0,
+        "loss_A": 1817.7437968831061,
+        "loss_B": 480.7728696588278,
+        "epsilon": 0.3178050000000001
+    },
+    {
+        "episode": 590,
+        "avg_reward": 34.269999999999996,
+        "success_rate": 0.0,
+        "loss_A": 1748.2052624807359,
+        "loss_B": 481.43810056841374,
+        "epsilon": 0.30593000000000004
+    },
+    {
+        "episode": 600,
+        "avg_reward": 30.699999999999996,
+        "success_rate": 0.0,
+        "loss_A": 1620.401671558857,
+        "loss_B": 460.8893909947872,
+        "epsilon": 0.29405500000000007
+    },
+    {
+        "episode": 610,
+        "avg_reward": 20.83,
+        "success_rate": 0.0,
+        "loss_A": 1465.3370616092682,
+        "loss_B": 430.16022757720947,
+        "epsilon": 0.2821800000000001
+    },
+    {
+        "episode": 620,
+        "avg_reward": 22.509999999999998,
+        "success_rate": 0.0,
+        "loss_A": 1344.3714944536687,
+        "loss_B": 409.9650381261706,
+        "epsilon": 0.270305
+    },
+    {
+        "episode": 630,
+        "avg_reward": 43.309999999999995,
+        "success_rate": 0.3,
+        "loss_A": 1370.6639183635712,
+        "loss_B": 428.7094554598331,
+        "epsilon": 0.2592375
+    },
+    {
+        "episode": 640,
+        "avg_reward": 46.45,
+        "success_rate": 0.0,
+        "loss_A": 1244.4715282063485,
+        "loss_B": 399.29414392888543,
+        "epsilon": 0.24736250000000004
+    },
+    {
+        "episode": 650,
+        "avg_reward": 53.589999999999996,
+        "success_rate": 0.0,
+        "loss_A": 1296.582204236269,
+        "loss_B": 433.73620413315297,
+        "epsilon": 0.23548750000000007
+    },
+    {
+        "episode": 660,
+        "avg_reward": 58.42,
+        "success_rate": 0.0,
+        "loss_A": 1164.8289386005401,
+        "loss_B": 408.4260707671642,
+        "epsilon": 0.2236125000000001
+    },
+    {
+        "episode": 670,
+        "avg_reward": 53.169999999999995,
+        "success_rate": 0.0,
+        "loss_A": 1049.0678123760224,
+        "loss_B": 388.8838145303726,
+        "epsilon": 0.21173750000000002
+    },
+    {
+        "episode": 680,
+        "avg_reward": 44.349999999999994,
+        "success_rate": 0.0,
+        "loss_A": 1119.0410852408409,
+        "loss_B": 442.5855751154423,
+        "epsilon": 0.19986250000000005
+    },
+    {
+        "episode": 690,
+        "avg_reward": 49.96,
+        "success_rate": 0.1,
+        "loss_A": 985.3324649000168,
+        "loss_B": 411.46202573907374,
+        "epsilon": 0.1884387500000001
+    },
+    {
+        "episode": 700,
+        "avg_reward": 40.36,
+        "success_rate": 0.0,
+        "loss_A": 969.0073737769127,
+        "loss_B": 411.40043276810644,
+        "epsilon": 0.17656375000000002
+    },
+    {
+        "episode": 710,
+        "avg_reward": 47.71,
+        "success_rate": 0.0,
+        "loss_A": 838.8377121901513,
+        "loss_B": 368.38586341917517,
+        "epsilon": 0.16468875000000005
+    },
+    {
+        "episode": 720,
+        "avg_reward": 66.61,
+        "success_rate": 0.0,
+        "loss_A": 846.6354807481765,
+        "loss_B": 394.8371431808472,
+        "epsilon": 0.15281375000000008
+    },
+    {
+        "episode": 730,
+        "avg_reward": 60.519999999999996,
+        "success_rate": 0.0,
+        "loss_A": 871.0591065747738,
+        "loss_B": 443.4593450512886,
+        "epsilon": 0.1409387500000001
+    },
+    {
+        "episode": 740,
+        "avg_reward": 59.05,
+        "success_rate": 0.0,
+        "loss_A": 874.9998657784462,
+        "loss_B": 497.9984873254299,
+        "epsilon": 0.12906375000000003
+    },
+    {
+        "episode": 750,
+        "avg_reward": 51.07,
+        "success_rate": 0.0,
+        "loss_A": 747.3965596399307,
+        "loss_B": 435.69631171941757,
+        "epsilon": 0.11718875000000006
+    },
+    {
+        "episode": 760,
+        "avg_reward": 58.60999999999999,
+        "success_rate": 0.1,
+        "loss_A": 697.7698101533651,
+        "loss_B": 428.3124642291069,
+        "epsilon": 0.10536125000000007
+    },
+    {
+        "episode": 770,
+        "avg_reward": 59.05,
+        "success_rate": 0.0,
+        "loss_A": 645.8090824124813,
+        "loss_B": 427.7891847165823,
+        "epsilon": 0.0934862500000001
+    },
+    {
+        "episode": 780,
+        "avg_reward": 65.56,
+        "success_rate": 0.0,
+        "loss_A": 635.8240475498438,
+        "loss_B": 445.8649948911667,
+        "epsilon": 0.08161125000000014
+    },
+    {
+        "episode": 790,
+        "avg_reward": 73.74999999999999,
+        "success_rate": 0.0,
+        "loss_A": 611.2702563124896,
+        "loss_B": 445.6433197963238,
+        "epsilon": 0.06973625000000006
+    },
+    {
+        "episode": 800,
+        "avg_reward": 71.86,
+        "success_rate": 0.0,
+        "loss_A": 594.1003011569977,
+        "loss_B": 461.7267526510954,
+        "epsilon": 0.057861250000000086
+    },
+    {
+        "episode": 810,
+        "avg_reward": 62.620000000000005,
+        "success_rate": 0.0,
+        "loss_A": 527.5537307960988,
+        "loss_B": 426.0765906817913,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 820,
+        "avg_reward": 76.47999999999999,
+        "success_rate": 0.0,
+        "loss_A": 515.0736629567147,
+        "loss_B": 435.91512215077876,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 830,
+        "avg_reward": 75.22,
+        "success_rate": 0.0,
+        "loss_A": 529.8556995387078,
+        "loss_B": 463.5157070099115,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 840,
+        "avg_reward": 64.3,
+        "success_rate": 0.0,
+        "loss_A": 527.3655325095654,
+        "loss_B": 463.6965371284485,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 850,
+        "avg_reward": 78.16,
+        "success_rate": 0.0,
+        "loss_A": 534.8294110553264,
+        "loss_B": 484.7161259226799,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 860,
+        "avg_reward": 63.25,
+        "success_rate": 0.0,
+        "loss_A": 488.2059357457161,
+        "loss_B": 455.2380696122646,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 870,
+        "avg_reward": 60.52,
+        "success_rate": 0.0,
+        "loss_A": 503.36882345461845,
+        "loss_B": 485.771527331233,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 880,
+        "avg_reward": 76.68999999999998,
+        "success_rate": 0.0,
+        "loss_A": 461.26233513522146,
+        "loss_B": 465.1135945729017,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 890,
+        "avg_reward": 75.42999999999999,
+        "success_rate": 0.0,
+        "loss_A": 426.9132577972412,
+        "loss_B": 444.4991722886562,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 900,
+        "avg_reward": 73.96000000000001,
+        "success_rate": 0.0,
+        "loss_A": 397.86451981604097,
+        "loss_B": 432.4372438591719,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 910,
+        "avg_reward": 70.6,
+        "success_rate": 0.0,
+        "loss_A": 390.68184339547156,
+        "loss_B": 431.22659059476854,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 920,
+        "avg_reward": 71.86,
+        "success_rate": 0.0,
+        "loss_A": 340.4311928603649,
+        "loss_B": 375.2406237719655,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 930,
+        "avg_reward": 60.93999999999998,
+        "success_rate": 0.0,
+        "loss_A": 353.2568374962807,
+        "loss_B": 397.73935541427136,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 940,
+        "avg_reward": 75.42999999999999,
+        "success_rate": 0.0,
+        "loss_A": 351.1644096150398,
+        "loss_B": 413.69628310751915,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 950,
+        "avg_reward": 73.12,
+        "success_rate": 0.0,
+        "loss_A": 359.2253747253418,
+        "loss_B": 440.54987761271,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 960,
+        "avg_reward": 75.85,
+        "success_rate": 0.0,
+        "loss_A": 322.7789702726603,
+        "loss_B": 400.0454960672855,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 970,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 331.66544059515,
+        "loss_B": 416.9490313949585,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 980,
+        "avg_reward": 66.82,
+        "success_rate": 0.0,
+        "loss_A": 306.7131809630394,
+        "loss_B": 382.81949683904645,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 990,
+        "avg_reward": 72.48999999999998,
+        "success_rate": 0.0,
+        "loss_A": 293.03599301695823,
+        "loss_B": 363.7648375083208,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1000,
+        "avg_reward": 76.9,
+        "success_rate": 0.0,
+        "loss_A": 302.3690823400021,
+        "loss_B": 373.9524064028263,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1010,
+        "avg_reward": 67.04999999999998,
+        "success_rate": 0.1,
+        "loss_A": 296.92434830510615,
+        "loss_B": 370.5134321208,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1020,
+        "avg_reward": 78.58,
+        "success_rate": 0.0,
+        "loss_A": 278.5466036643982,
+        "loss_B": 346.95101425898076,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1030,
+        "avg_reward": 78.78999999999999,
+        "success_rate": 0.0,
+        "loss_A": 298.58464173150065,
+        "loss_B": 369.93894842100144,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1040,
+        "avg_reward": 74.38,
+        "success_rate": 0.0,
+        "loss_A": 307.953790528059,
+        "loss_B": 372.35626159125565,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1050,
+        "avg_reward": 76.89999999999999,
+        "success_rate": 0.0,
+        "loss_A": 318.6057460744381,
+        "loss_B": 371.117828006506,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1060,
+        "avg_reward": 78.16,
+        "success_rate": 0.0,
+        "loss_A": 288.33169553995134,
+        "loss_B": 343.37898166382314,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1070,
+        "avg_reward": 76.05999999999999,
+        "success_rate": 0.0,
+        "loss_A": 316.63172838532927,
+        "loss_B": 390.990970621109,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1080,
+        "avg_reward": 80.47,
+        "success_rate": 0.0,
+        "loss_A": 327.30938168501854,
+        "loss_B": 406.1715869753361,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1090,
+        "avg_reward": 71.85999999999999,
+        "success_rate": 0.0,
+        "loss_A": 338.3404875791073,
+        "loss_B": 420.27910224056245,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1100,
+        "avg_reward": 66.4,
+        "success_rate": 0.0,
+        "loss_A": 309.0706049234867,
+        "loss_B": 374.379952516675,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1110,
+        "avg_reward": 79.21,
+        "success_rate": 0.0,
+        "loss_A": 309.8170609275103,
+        "loss_B": 372.5879840739369,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1120,
+        "avg_reward": 76.9,
+        "success_rate": 0.0,
+        "loss_A": 293.42815042078496,
+        "loss_B": 368.62835930979253,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1130,
+        "avg_reward": 82.57,
+        "success_rate": 0.0,
+        "loss_A": 298.1069950045347,
+        "loss_B": 383.8430732777119,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1140,
+        "avg_reward": 81.52000000000001,
+        "success_rate": 0.0,
+        "loss_A": 309.73754606342317,
+        "loss_B": 407.93505422705414,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1150,
+        "avg_reward": 71.02,
+        "success_rate": 0.0,
+        "loss_A": 293.0939937250614,
+        "loss_B": 374.0917450235486,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1160,
+        "avg_reward": 76.06,
+        "success_rate": 0.0,
+        "loss_A": 274.3939668864012,
+        "loss_B": 351.1674415115118,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1170,
+        "avg_reward": 83.2,
+        "success_rate": 0.0,
+        "loss_A": 283.56446457982065,
+        "loss_B": 364.2478136073351,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1180,
+        "avg_reward": 80.33000000000001,
+        "success_rate": 0.1,
+        "loss_A": 255.72216380560397,
+        "loss_B": 328.7177506928444,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1190,
+        "avg_reward": 79.84,
+        "success_rate": 0.0,
+        "loss_A": 293.931221807003,
+        "loss_B": 368.20534967899323,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1200,
+        "avg_reward": 82.57000000000001,
+        "success_rate": 0.0,
+        "loss_A": 280.3162118976116,
+        "loss_B": 360.0154717565775,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1210,
+        "avg_reward": 79.41999999999999,
+        "success_rate": 0.0,
+        "loss_A": 305.8963867399693,
+        "loss_B": 388.9448301739097,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1220,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 281.6509018585682,
+        "loss_B": 350.00769443529845,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1230,
+        "avg_reward": 79.21000000000001,
+        "success_rate": 0.0,
+        "loss_A": 292.00576884031295,
+        "loss_B": 359.7079413126111,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1240,
+        "avg_reward": 52.96,
+        "success_rate": 0.0,
+        "loss_A": 290.9474627213478,
+        "loss_B": 349.8177662237883,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1250,
+        "avg_reward": 56.31999999999999,
+        "success_rate": 0.0,
+        "loss_A": 300.60255786716937,
+        "loss_B": 347.7760922845304,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1260,
+        "avg_reward": 77.74000000000001,
+        "success_rate": 0.0,
+        "loss_A": 289.8673818360567,
+        "loss_B": 333.6350842063427,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1270,
+        "avg_reward": 81.94,
+        "success_rate": 0.0,
+        "loss_A": 310.2402221964598,
+        "loss_B": 360.0882350501418,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1280,
+        "avg_reward": 79.00000000000001,
+        "success_rate": 0.0,
+        "loss_A": 310.99857999408243,
+        "loss_B": 365.34941310584543,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1290,
+        "avg_reward": 74.59,
+        "success_rate": 0.0,
+        "loss_A": 309.0497634408474,
+        "loss_B": 360.71385982680323,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1300,
+        "avg_reward": 67.44999999999999,
+        "success_rate": 0.0,
+        "loss_A": 313.5155215755701,
+        "loss_B": 357.5644745541811,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1310,
+        "avg_reward": 76.9,
+        "success_rate": 0.0,
+        "loss_A": 323.0308165929317,
+        "loss_B": 356.66126706683633,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1320,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 299.8983570702076,
+        "loss_B": 328.1895475618839,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1330,
+        "avg_reward": 79.21,
+        "success_rate": 0.0,
+        "loss_A": 326.7766075899601,
+        "loss_B": 353.7485816530585,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1340,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 355.01414573192596,
+        "loss_B": 382.17142843076584,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1350,
+        "avg_reward": 64.09,
+        "success_rate": 0.0,
+        "loss_A": 333.13887790107725,
+        "loss_B": 345.28388996136187,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1360,
+        "avg_reward": 66.4,
+        "success_rate": 0.0,
+        "loss_A": 367.41024147629736,
+        "loss_B": 361.8126753780842,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1370,
+        "avg_reward": 56.529999999999994,
+        "success_rate": 0.0,
+        "loss_A": 346.57308657443525,
+        "loss_B": 323.9314857763648,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1380,
+        "avg_reward": 82.99,
+        "success_rate": 0.0,
+        "loss_A": 309.3802802956104,
+        "loss_B": 287.45663155555724,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1390,
+        "avg_reward": 77.10999999999999,
+        "success_rate": 0.0,
+        "loss_A": 354.8182356311083,
+        "loss_B": 336.70232003074887,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1400,
+        "avg_reward": 81.94,
+        "success_rate": 0.0,
+        "loss_A": 361.44056441700457,
+        "loss_B": 337.0366370421648,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1410,
+        "avg_reward": 78.58,
+        "success_rate": 0.0,
+        "loss_A": 368.7194981249571,
+        "loss_B": 343.12862916523216,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1420,
+        "avg_reward": 77.10999999999999,
+        "success_rate": 0.0,
+        "loss_A": 386.7233697395325,
+        "loss_B": 360.3086595523357,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1430,
+        "avg_reward": 48.760000000000005,
+        "success_rate": 0.0,
+        "loss_A": 363.6948588359356,
+        "loss_B": 327.34425570881365,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1440,
+        "avg_reward": 71.43999999999998,
+        "success_rate": 0.0,
+        "loss_A": 377.9434563654661,
+        "loss_B": 328.6988631646633,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1450,
+        "avg_reward": 72.28,
+        "success_rate": 0.0,
+        "loss_A": 367.39638612961767,
+        "loss_B": 321.88695396345855,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1460,
+        "avg_reward": 80.89000000000001,
+        "success_rate": 0.0,
+        "loss_A": 357.16665482378005,
+        "loss_B": 326.30615278583764,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1470,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 327.09996692621706,
+        "loss_B": 308.84437040150164,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1480,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 353.11724556422234,
+        "loss_B": 335.74929934349655,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1490,
+        "avg_reward": 80.67999999999999,
+        "success_rate": 0.0,
+        "loss_A": 364.4189946306944,
+        "loss_B": 349.2403252594769,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1500,
+        "avg_reward": 81.72999999999999,
+        "success_rate": 0.0,
+        "loss_A": 386.1815117492676,
+        "loss_B": 373.11499918463824,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1510,
+        "avg_reward": 75.22,
+        "success_rate": 0.0,
+        "loss_A": 367.8386606380939,
+        "loss_B": 358.11753879588844,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1520,
+        "avg_reward": 61.98999999999999,
+        "success_rate": 0.0,
+        "loss_A": 361.1625981106758,
+        "loss_B": 337.23138089627025,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1530,
+        "avg_reward": 73.96,
+        "success_rate": 0.0,
+        "loss_A": 375.46175246953965,
+        "loss_B": 346.7160045693666,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1540,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 364.6332683544159,
+        "loss_B": 329.1808635893315,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1550,
+        "avg_reward": 50.65,
+        "success_rate": 0.0,
+        "loss_A": 365.98523299849035,
+        "loss_B": 317.16286979305744,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1560,
+        "avg_reward": 83.80999999999999,
+        "success_rate": 0.1,
+        "loss_A": 371.5243552222252,
+        "loss_B": 318.87743458527325,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1570,
+        "avg_reward": 80.89,
+        "success_rate": 0.0,
+        "loss_A": 342.152753385067,
+        "loss_B": 295.73252122318746,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1580,
+        "avg_reward": 79.0,
+        "success_rate": 0.0,
+        "loss_A": 351.03050344944,
+        "loss_B": 306.0075373133868,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1590,
+        "avg_reward": 78.78999999999999,
+        "success_rate": 0.0,
+        "loss_A": 334.8859921754599,
+        "loss_B": 281.12725994974375,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1600,
+        "avg_reward": 70.6,
+        "success_rate": 0.0,
+        "loss_A": 396.0153659030199,
+        "loss_B": 331.53571897536517,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1610,
+        "avg_reward": 58.789999999999985,
+        "success_rate": 0.1,
+        "loss_A": 374.94158072900774,
+        "loss_B": 308.8982444614917,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1620,
+        "avg_reward": 76.9,
+        "success_rate": 0.0,
+        "loss_A": 388.4862754519582,
+        "loss_B": 310.2450947682261,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1630,
+        "avg_reward": 62.2,
+        "success_rate": 0.0,
+        "loss_A": 393.2615608307123,
+        "loss_B": 296.4013835439086,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1640,
+        "avg_reward": 82.14999999999999,
+        "success_rate": 0.0,
+        "loss_A": 402.3694672033787,
+        "loss_B": 302.94338809758426,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1650,
+        "avg_reward": 79.42,
+        "success_rate": 0.0,
+        "loss_A": 381.74667438340185,
+        "loss_B": 286.9124650518298,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1660,
+        "avg_reward": 74.79999999999998,
+        "success_rate": 0.0,
+        "loss_A": 349.4688239427805,
+        "loss_B": 261.9385216192007,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1670,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 379.8693379245996,
+        "loss_B": 290.9736413437724,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1680,
+        "avg_reward": 72.7,
+        "success_rate": 0.0,
+        "loss_A": 416.19957951676844,
+        "loss_B": 311.8950732484758,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1690,
+        "avg_reward": 69.97,
+        "success_rate": 0.0,
+        "loss_A": 387.8577147142887,
+        "loss_B": 277.69290520522,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1700,
+        "avg_reward": 76.26999999999998,
+        "success_rate": 0.0,
+        "loss_A": 418.09133349323275,
+        "loss_B": 292.02729561933876,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1710,
+        "avg_reward": 80.26000000000002,
+        "success_rate": 0.0,
+        "loss_A": 377.40675313031676,
+        "loss_B": 251.3661855970025,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1720,
+        "avg_reward": 82.36,
+        "success_rate": 0.0,
+        "loss_A": 389.1157509227395,
+        "loss_B": 265.1516867362559,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1730,
+        "avg_reward": 81.31,
+        "success_rate": 0.0,
+        "loss_A": 413.7183941092491,
+        "loss_B": 285.5640499252975,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1740,
+        "avg_reward": 75.42999999999999,
+        "success_rate": 0.0,
+        "loss_A": 407.4168785122633,
+        "loss_B": 272.19663281673195,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1750,
+        "avg_reward": 80.89,
+        "success_rate": 0.0,
+        "loss_A": 440.24830120444295,
+        "loss_B": 300.5536233831644,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1760,
+        "avg_reward": 71.44000000000001,
+        "success_rate": 0.0,
+        "loss_A": 423.1746631947756,
+        "loss_B": 281.9504636210799,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1770,
+        "avg_reward": 70.81,
+        "success_rate": 0.0,
+        "loss_A": 457.0486080946922,
+        "loss_B": 290.9185679111779,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1780,
+        "avg_reward": 73.96000000000001,
+        "success_rate": 0.0,
+        "loss_A": 422.4842261469364,
+        "loss_B": 277.7715362264812,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1790,
+        "avg_reward": 77.11,
+        "success_rate": 0.0,
+        "loss_A": 438.55265206313135,
+        "loss_B": 298.2234372188896,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1800,
+        "avg_reward": 68.71000000000001,
+        "success_rate": 0.0,
+        "loss_A": 427.0453455556631,
+        "loss_B": 284.28386983811856,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1810,
+        "avg_reward": 74.58999999999999,
+        "success_rate": 0.0,
+        "loss_A": 462.6776124958992,
+        "loss_B": 302.3349269493222,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1820,
+        "avg_reward": 77.32,
+        "success_rate": 0.0,
+        "loss_A": 437.76980181491376,
+        "loss_B": 282.7018599318862,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1830,
+        "avg_reward": 78.79,
+        "success_rate": 0.0,
+        "loss_A": 437.6748756441474,
+        "loss_B": 289.00477591073513,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1840,
+        "avg_reward": 81.94000000000001,
+        "success_rate": 0.0,
+        "loss_A": 491.6658577378988,
+        "loss_B": 333.84381884175536,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1850,
+        "avg_reward": 76.06,
+        "success_rate": 0.0,
+        "loss_A": 426.31269484174254,
+        "loss_B": 290.12006856782733,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1860,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 473.51092561972143,
+        "loss_B": 320.56164066547154,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1870,
+        "avg_reward": 80.46999999999998,
+        "success_rate": 0.0,
+        "loss_A": 445.391248293519,
+        "loss_B": 313.67361519005897,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1880,
+        "avg_reward": 73.96,
+        "success_rate": 0.0,
+        "loss_A": 457.2786528917551,
+        "loss_B": 317.8486862678379,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1890,
+        "avg_reward": 83.41,
+        "success_rate": 0.0,
+        "loss_A": 440.0836935751438,
+        "loss_B": 312.13533954584597,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1900,
+        "avg_reward": 78.79,
+        "success_rate": 0.0,
+        "loss_A": 503.5453517529368,
+        "loss_B": 342.96299193271994,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1910,
+        "avg_reward": 76.26999999999998,
+        "success_rate": 0.0,
+        "loss_A": 459.84635805368424,
+        "loss_B": 307.65232844665644,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1920,
+        "avg_reward": 63.459999999999994,
+        "success_rate": 0.0,
+        "loss_A": 491.92066261816024,
+        "loss_B": 314.9289611336887,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1930,
+        "avg_reward": 75.85,
+        "success_rate": 0.1,
+        "loss_A": 465.0475911990404,
+        "loss_B": 296.8101431610733,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1940,
+        "avg_reward": 78.16,
+        "success_rate": 0.0,
+        "loss_A": 435.2998245971799,
+        "loss_B": 280.3720507251769,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1950,
+        "avg_reward": 81.52,
+        "success_rate": 0.0,
+        "loss_A": 436.6728717300892,
+        "loss_B": 290.9444920219779,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1960,
+        "avg_reward": 71.65,
+        "success_rate": 0.0,
+        "loss_A": 506.4433394333124,
+        "loss_B": 338.3614601011872,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1970,
+        "avg_reward": 61.15,
+        "success_rate": 0.0,
+        "loss_A": 487.34040551650526,
+        "loss_B": 321.86316011565924,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1980,
+        "avg_reward": 76.47999999999999,
+        "success_rate": 0.0,
+        "loss_A": 502.5531515188813,
+        "loss_B": 325.21587167194485,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 1990,
+        "avg_reward": 76.69,
+        "success_rate": 0.0,
+        "loss_A": 534.5832256633043,
+        "loss_B": 355.6323729480803,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2000,
+        "avg_reward": 82.57,
+        "success_rate": 0.0,
+        "loss_A": 480.09442321157456,
+        "loss_B": 320.20545017281177,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2010,
+        "avg_reward": 83.41,
+        "success_rate": 0.0,
+        "loss_A": 486.29182102155687,
+        "loss_B": 328.43578607577086,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2020,
+        "avg_reward": 80.67999999999999,
+        "success_rate": 0.0,
+        "loss_A": 504.2023364877701,
+        "loss_B": 343.3047138693333,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2030,
+        "avg_reward": 70.39,
+        "success_rate": 0.0,
+        "loss_A": 476.6205338156223,
+        "loss_B": 322.48004337392746,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2040,
+        "avg_reward": 76.69000000000001,
+        "success_rate": 0.0,
+        "loss_A": 526.3809934141636,
+        "loss_B": 356.7262627342045,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2050,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 601.3264535095692,
+        "loss_B": 408.45267311806975,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2060,
+        "avg_reward": 79.42000000000002,
+        "success_rate": 0.0,
+        "loss_A": 540.1108915375471,
+        "loss_B": 369.2802374069691,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2070,
+        "avg_reward": 61.36,
+        "success_rate": 0.0,
+        "loss_A": 552.684064142108,
+        "loss_B": 358.7079525126219,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2080,
+        "avg_reward": 58.839999999999996,
+        "success_rate": 0.0,
+        "loss_A": 585.0801100904941,
+        "loss_B": 359.2810321358442,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2090,
+        "avg_reward": 68.08,
+        "success_rate": 0.0,
+        "loss_A": 563.5630116127729,
+        "loss_B": 336.78939540949466,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2100,
+        "avg_reward": 70.80999999999999,
+        "success_rate": 0.0,
+        "loss_A": 599.5555779348612,
+        "loss_B": 349.1799988939464,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2110,
+        "avg_reward": 83.2,
+        "success_rate": 0.0,
+        "loss_A": 554.9221228542924,
+        "loss_B": 318.002228631489,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2120,
+        "avg_reward": 79.84,
+        "success_rate": 0.0,
+        "loss_A": 534.2690186624527,
+        "loss_B": 313.13847736924885,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2130,
+        "avg_reward": 80.25999999999999,
+        "success_rate": 0.0,
+        "loss_A": 573.8927239559889,
+        "loss_B": 345.48722675645354,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2140,
+        "avg_reward": 79.63000000000001,
+        "success_rate": 0.0,
+        "loss_A": 602.227856619358,
+        "loss_B": 365.3739561230838,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2150,
+        "avg_reward": 76.05999999999999,
+        "success_rate": 0.0,
+        "loss_A": 580.8938430329562,
+        "loss_B": 353.3962157202959,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2160,
+        "avg_reward": 71.43999999999998,
+        "success_rate": 0.0,
+        "loss_A": 534.550295971036,
+        "loss_B": 321.7089512370527,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2170,
+        "avg_reward": 75.63999999999999,
+        "success_rate": 0.0,
+        "loss_A": 574.8913952889443,
+        "loss_B": 347.50084450556335,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2180,
+        "avg_reward": 78.14999999999998,
+        "success_rate": 0.1,
+        "loss_A": 634.0341946572065,
+        "loss_B": 381.32712340676784,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2190,
+        "avg_reward": 72.83000000000001,
+        "success_rate": 0.3,
+        "loss_A": 594.366695040226,
+        "loss_B": 355.30388740570845,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2200,
+        "avg_reward": 81.41,
+        "success_rate": 0.1,
+        "loss_A": 588.2957170432805,
+        "loss_B": 341.5424775390327,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2210,
+        "avg_reward": 72.07000000000001,
+        "success_rate": 0.0,
+        "loss_A": 614.8759182645083,
+        "loss_B": 345.7676766665429,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2220,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 588.9989668898583,
+        "loss_B": 323.6754123735726,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2230,
+        "avg_reward": 81.72999999999999,
+        "success_rate": 0.0,
+        "loss_A": 640.4691659494042,
+        "loss_B": 343.1533231164515,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2240,
+        "avg_reward": 80.47,
+        "success_rate": 0.0,
+        "loss_A": 606.6470820937157,
+        "loss_B": 335.72092587420343,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2250,
+        "avg_reward": 69.55,
+        "success_rate": 0.0,
+        "loss_A": 651.0085442067385,
+        "loss_B": 354.3203425526321,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2260,
+        "avg_reward": 80.44000000000001,
+        "success_rate": 0.1,
+        "loss_A": 592.1299888808727,
+        "loss_B": 325.25163540589807,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2270,
+        "avg_reward": 74.0,
+        "success_rate": 0.1,
+        "loss_A": 572.564984802723,
+        "loss_B": 309.28801994150876,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2280,
+        "avg_reward": 77.68999999999998,
+        "success_rate": 0.1,
+        "loss_A": 613.1188594866991,
+        "loss_B": 328.47035821637513,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2290,
+        "avg_reward": 74.38,
+        "success_rate": 0.0,
+        "loss_A": 537.8815348495245,
+        "loss_B": 285.9019505816698,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2300,
+        "avg_reward": 59.69,
+        "success_rate": 0.1,
+        "loss_A": 548.4411718138456,
+        "loss_B": 286.17814855372905,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2310,
+        "avg_reward": 76.47999999999999,
+        "success_rate": 0.0,
+        "loss_A": 536.6914030226469,
+        "loss_B": 270.8393520938456,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2320,
+        "avg_reward": 73.96,
+        "success_rate": 0.0,
+        "loss_A": 571.316985542059,
+        "loss_B": 292.8234908492863,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2330,
+        "avg_reward": 81.31,
+        "success_rate": 0.0,
+        "loss_A": 529.7457068272233,
+        "loss_B": 269.34461057168244,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2340,
+        "avg_reward": 76.06,
+        "success_rate": 0.0,
+        "loss_A": 523.3118253315687,
+        "loss_B": 266.6305434110463,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2350,
+        "avg_reward": 78.62,
+        "success_rate": 0.1,
+        "loss_A": 526.2254762405157,
+        "loss_B": 271.53974278962613,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2360,
+        "avg_reward": 73.12,
+        "success_rate": 0.0,
+        "loss_A": 547.3934072256088,
+        "loss_B": 277.33833947622776,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2370,
+        "avg_reward": 73.12,
+        "success_rate": 0.0,
+        "loss_A": 530.8615395489932,
+        "loss_B": 280.3779641422033,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2380,
+        "avg_reward": 82.99,
+        "success_rate": 0.0,
+        "loss_A": 509.28275866436957,
+        "loss_B": 277.3432699375451,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2390,
+        "avg_reward": 82.13,
+        "success_rate": 0.1,
+        "loss_A": 574.5170815595388,
+        "loss_B": 321.73983272489903,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2400,
+        "avg_reward": 71.44000000000001,
+        "success_rate": 0.0,
+        "loss_A": 537.1138544529676,
+        "loss_B": 300.5782122831047,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2410,
+        "avg_reward": 83.2,
+        "success_rate": 0.0,
+        "loss_A": 467.0707397937775,
+        "loss_B": 270.6350410094708,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2420,
+        "avg_reward": 81.55999999999999,
+        "success_rate": 0.1,
+        "loss_A": 500.033148139596,
+        "loss_B": 296.82086430960896,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2430,
+        "avg_reward": 76.06,
+        "success_rate": 0.0,
+        "loss_A": 613.0131228913069,
+        "loss_B": 351.28328202110526,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2440,
+        "avg_reward": 79.63,
+        "success_rate": 0.0,
+        "loss_A": 504.44983954429625,
+        "loss_B": 293.3103678639233,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2450,
+        "avg_reward": 72.07000000000001,
+        "success_rate": 0.0,
+        "loss_A": 571.0394570808411,
+        "loss_B": 323.1620631018579,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2460,
+        "avg_reward": 68.5,
+        "success_rate": 0.0,
+        "loss_A": 490.33240841424464,
+        "loss_B": 279.25652686151864,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2470,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 550.6767583098411,
+        "loss_B": 316.15232467216254,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2480,
+        "avg_reward": 52.75,
+        "success_rate": 0.0,
+        "loss_A": 439.19887011027333,
+        "loss_B": 245.1667298746556,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2490,
+        "avg_reward": 81.31,
+        "success_rate": 0.0,
+        "loss_A": 489.1204879546165,
+        "loss_B": 280.421917653881,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2500,
+        "avg_reward": 76.05999999999999,
+        "success_rate": 0.0,
+        "loss_A": 451.6983581149578,
+        "loss_B": 260.65291362687947,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2510,
+        "avg_reward": 79.39999999999999,
+        "success_rate": 0.1,
+        "loss_A": 519.2354238398075,
+        "loss_B": 302.71673653787377,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2520,
+        "avg_reward": 54.21999999999999,
+        "success_rate": 0.0,
+        "loss_A": 517.7219450289011,
+        "loss_B": 291.57389817255734,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2530,
+        "avg_reward": 73.33,
+        "success_rate": 0.0,
+        "loss_A": 454.34853688311574,
+        "loss_B": 248.2017902251035,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2540,
+        "avg_reward": 78.99999999999999,
+        "success_rate": 0.0,
+        "loss_A": 473.27951091873643,
+        "loss_B": 265.5946430871934,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2550,
+        "avg_reward": 81.31,
+        "success_rate": 0.0,
+        "loss_A": 537.107942181468,
+        "loss_B": 312.0931018886715,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2560,
+        "avg_reward": 73.53999999999999,
+        "success_rate": 0.0,
+        "loss_A": 535.0956366126537,
+        "loss_B": 323.7569766931534,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2570,
+        "avg_reward": 75.64,
+        "success_rate": 0.0,
+        "loss_A": 509.49291122448443,
+        "loss_B": 310.9286420352906,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2580,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 478.9269678789377,
+        "loss_B": 296.055320245266,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2590,
+        "avg_reward": 82.98999999999998,
+        "success_rate": 0.0,
+        "loss_A": 518.3896488517523,
+        "loss_B": 334.0755014858246,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2600,
+        "avg_reward": 79.39,
+        "success_rate": 0.2,
+        "loss_A": 485.08985773468015,
+        "loss_B": 327.4896002716422,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2610,
+        "avg_reward": 75.57000000000001,
+        "success_rate": 0.1,
+        "loss_A": 561.376165560484,
+        "loss_B": 383.1168180044293,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2620,
+        "avg_reward": 74.57000000000001,
+        "success_rate": 0.1,
+        "loss_A": 600.3676884771586,
+        "loss_B": 398.9593327898383,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2630,
+        "avg_reward": 66.63999999999999,
+        "success_rate": 0.2,
+        "loss_A": 569.484130760789,
+        "loss_B": 383.97627428221705,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2640,
+        "avg_reward": 79.27000000000001,
+        "success_rate": 0.1,
+        "loss_A": 600.9931502541303,
+        "loss_B": 402.3854087783992,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2650,
+        "avg_reward": 83.83,
+        "success_rate": 0.0,
+        "loss_A": 567.0168848680257,
+        "loss_B": 365.9193086827099,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2660,
+        "avg_reward": 63.25,
+        "success_rate": 0.1,
+        "loss_A": 609.6570303343534,
+        "loss_B": 381.76293985667826,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2670,
+        "avg_reward": 82.4,
+        "success_rate": 0.1,
+        "loss_A": 539.726281499505,
+        "loss_B": 341.2595883962214,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2680,
+        "avg_reward": 76.27000000000001,
+        "success_rate": 0.0,
+        "loss_A": 560.259550502181,
+        "loss_B": 362.09102963861824,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2690,
+        "avg_reward": 73.96,
+        "success_rate": 0.0,
+        "loss_A": 541.3524761260747,
+        "loss_B": 361.35619590720535,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2700,
+        "avg_reward": 75.22,
+        "success_rate": 0.0,
+        "loss_A": 573.3432839030028,
+        "loss_B": 371.92739242640135,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2710,
+        "avg_reward": 71.22999999999999,
+        "success_rate": 0.0,
+        "loss_A": 584.670274594903,
+        "loss_B": 405.39202572745086,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2720,
+        "avg_reward": 76.27,
+        "success_rate": 0.0,
+        "loss_A": 521.5485261873007,
+        "loss_B": 351.5566138804853,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2730,
+        "avg_reward": 80.25,
+        "success_rate": 0.1,
+        "loss_A": 629.1476965674162,
+        "loss_B": 415.8349277787507,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2740,
+        "avg_reward": 83.2,
+        "success_rate": 0.0,
+        "loss_A": 602.5791802124381,
+        "loss_B": 402.857808875978,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2750,
+        "avg_reward": 74.8,
+        "success_rate": 0.0,
+        "loss_A": 596.5572183032036,
+        "loss_B": 397.41759950041774,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2760,
+        "avg_reward": 79.0,
+        "success_rate": 0.0,
+        "loss_A": 557.1422242794036,
+        "loss_B": 361.975321623683,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2770,
+        "avg_reward": 75.01,
+        "success_rate": 0.0,
+        "loss_A": 588.5433030802011,
+        "loss_B": 388.84080340237915,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2780,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 535.908026756525,
+        "loss_B": 343.82151196962593,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2790,
+        "avg_reward": 77.32,
+        "success_rate": 0.0,
+        "loss_A": 598.3709022941589,
+        "loss_B": 383.71602697259186,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2800,
+        "avg_reward": 69.13000000000002,
+        "success_rate": 0.0,
+        "loss_A": 501.29105008256437,
+        "loss_B": 313.78082011333106,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2810,
+        "avg_reward": 53.379999999999995,
+        "success_rate": 0.0,
+        "loss_A": 555.9354561520815,
+        "loss_B": 332.92686316168306,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2820,
+        "avg_reward": 80.05,
+        "success_rate": 0.0,
+        "loss_A": 564.3732418141365,
+        "loss_B": 345.0977063553035,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2830,
+        "avg_reward": 78.58,
+        "success_rate": 0.0,
+        "loss_A": 586.2038997244834,
+        "loss_B": 357.76580822569133,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2840,
+        "avg_reward": 72.97,
+        "success_rate": 0.1,
+        "loss_A": 494.7095390132666,
+        "loss_B": 296.1666649201512,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2850,
+        "avg_reward": 66.61999999999999,
+        "success_rate": 0.2,
+        "loss_A": 615.1460354561806,
+        "loss_B": 363.63786383250357,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2860,
+        "avg_reward": 78.09,
+        "success_rate": 0.1,
+        "loss_A": 561.4663199076653,
+        "loss_B": 344.7150007840395,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2870,
+        "avg_reward": 76.46,
+        "success_rate": 0.1,
+        "loss_A": 566.0297497992516,
+        "loss_B": 344.35977277198435,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2880,
+        "avg_reward": 78.17999999999999,
+        "success_rate": 0.1,
+        "loss_A": 609.2308581790924,
+        "loss_B": 373.730408056289,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2890,
+        "avg_reward": 85.26,
+        "success_rate": 0.1,
+        "loss_A": 595.2325050424338,
+        "loss_B": 360.6928420058489,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2900,
+        "avg_reward": 69.04,
+        "success_rate": 0.1,
+        "loss_A": 616.2378632819652,
+        "loss_B": 365.4866340714693,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2910,
+        "avg_reward": 79.21,
+        "success_rate": 0.0,
+        "loss_A": 626.715520406127,
+        "loss_B": 381.77112857934833,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2920,
+        "avg_reward": 79.63,
+        "success_rate": 0.0,
+        "loss_A": 602.8782783043384,
+        "loss_B": 367.6916809963882,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2930,
+        "avg_reward": 67.24,
+        "success_rate": 0.0,
+        "loss_A": 597.749448566556,
+        "loss_B": 342.7917373128757,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2940,
+        "avg_reward": 61.739999999999995,
+        "success_rate": 0.1,
+        "loss_A": 579.3190429272652,
+        "loss_B": 331.1518389410302,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2950,
+        "avg_reward": 70.67999999999998,
+        "success_rate": 0.1,
+        "loss_A": 533.3453568203449,
+        "loss_B": 299.6970762979202,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2960,
+        "avg_reward": 79.88,
+        "success_rate": 0.1,
+        "loss_A": 581.7976419489383,
+        "loss_B": 304.76836662524937,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2970,
+        "avg_reward": 78.58,
+        "success_rate": 0.0,
+        "loss_A": 513.9717365874052,
+        "loss_B": 256.0456734219492,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2980,
+        "avg_reward": 78.78999999999999,
+        "success_rate": 0.0,
+        "loss_A": 565.5247395439148,
+        "loss_B": 284.50028083610533,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 2990,
+        "avg_reward": 51.489999999999995,
+        "success_rate": 0.0,
+        "loss_A": 566.1172821413279,
+        "loss_B": 286.0366939501166,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3000,
+        "avg_reward": 67.66,
+        "success_rate": 0.0,
+        "loss_A": 589.0270599786044,
+        "loss_B": 294.6490755181014,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3010,
+        "avg_reward": 78.78999999999999,
+        "success_rate": 0.0,
+        "loss_A": 577.7167200798988,
+        "loss_B": 289.88834260186553,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3020,
+        "avg_reward": 81.52000000000001,
+        "success_rate": 0.0,
+        "loss_A": 564.11199720788,
+        "loss_B": 287.64063814215365,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3030,
+        "avg_reward": 83.83,
+        "success_rate": 0.0,
+        "loss_A": 620.7472815517187,
+        "loss_B": 317.23945280580966,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3040,
+        "avg_reward": 82.57000000000001,
+        "success_rate": 0.0,
+        "loss_A": 517.1342660018206,
+        "loss_B": 271.37230845433476,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3050,
+        "avg_reward": 78.58,
+        "success_rate": 0.0,
+        "loss_A": 502.21789628988506,
+        "loss_B": 255.98344676834344,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3060,
+        "avg_reward": 79.0,
+        "success_rate": 0.0,
+        "loss_A": 540.1429129564763,
+        "loss_B": 269.75312084278465,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3070,
+        "avg_reward": 81.52000000000001,
+        "success_rate": 0.0,
+        "loss_A": 522.4264722603559,
+        "loss_B": 262.2582210552245,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3080,
+        "avg_reward": 78.84,
+        "success_rate": 0.2,
+        "loss_A": 574.591081031859,
+        "loss_B": 281.8822455943078,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3090,
+        "avg_reward": 83.41,
+        "success_rate": 0.0,
+        "loss_A": 539.1141046159267,
+        "loss_B": 263.9215169917792,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3100,
+        "avg_reward": 82.57000000000001,
+        "success_rate": 0.0,
+        "loss_A": 543.3852972519397,
+        "loss_B": 267.8707485101968,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3110,
+        "avg_reward": 79.21,
+        "success_rate": 0.0,
+        "loss_A": 572.2375007587672,
+        "loss_B": 282.8332309206724,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3120,
+        "avg_reward": 79.42,
+        "success_rate": 0.0,
+        "loss_A": 547.101571262002,
+        "loss_B": 273.3878321249038,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3130,
+        "avg_reward": 83.62,
+        "success_rate": 0.0,
+        "loss_A": 612.8779516706467,
+        "loss_B": 301.09760709351303,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3140,
+        "avg_reward": 83.41000000000001,
+        "success_rate": 0.0,
+        "loss_A": 566.6664343916178,
+        "loss_B": 278.6775019979775,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3150,
+        "avg_reward": 76.27,
+        "success_rate": 0.0,
+        "loss_A": 587.0670452085733,
+        "loss_B": 291.82893832272293,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3160,
+        "avg_reward": 82.36,
+        "success_rate": 0.0,
+        "loss_A": 525.5251454606056,
+        "loss_B": 267.2792243982032,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3170,
+        "avg_reward": 80.3,
+        "success_rate": 0.1,
+        "loss_A": 603.6383146002293,
+        "loss_B": 316.8495826165974,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3180,
+        "avg_reward": 84.24999999999999,
+        "success_rate": 0.0,
+        "loss_A": 571.2919695206881,
+        "loss_B": 303.0536014430225,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3190,
+        "avg_reward": 71.65,
+        "success_rate": 0.0,
+        "loss_A": 552.4310851039886,
+        "loss_B": 294.7964695839584,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3200,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 562.218529556632,
+        "loss_B": 298.3573725220412,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3210,
+        "avg_reward": 71.22999999999999,
+        "success_rate": 0.0,
+        "loss_A": 548.879383881092,
+        "loss_B": 286.81966185849905,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3220,
+        "avg_reward": 66.39999999999999,
+        "success_rate": 0.0,
+        "loss_A": 490.1779123388529,
+        "loss_B": 251.40604838375003,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3230,
+        "avg_reward": 83.41,
+        "success_rate": 0.0,
+        "loss_A": 539.6999194209576,
+        "loss_B": 278.75247890074553,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3240,
+        "avg_reward": 81.72999999999999,
+        "success_rate": 0.0,
+        "loss_A": 504.7770972032547,
+        "loss_B": 253.77224546067416,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3250,
+        "avg_reward": 81.94000000000001,
+        "success_rate": 0.0,
+        "loss_A": 548.8581562041044,
+        "loss_B": 278.1639014080763,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3260,
+        "avg_reward": 81.52,
+        "success_rate": 0.0,
+        "loss_A": 546.3100724775791,
+        "loss_B": 274.79282738783957,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3270,
+        "avg_reward": 72.28,
+        "success_rate": 0.0,
+        "loss_A": 561.1055987741947,
+        "loss_B": 286.4997643251419,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3280,
+        "avg_reward": 78.37,
+        "success_rate": 0.0,
+        "loss_A": 545.7953399244547,
+        "loss_B": 276.88032392646375,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3290,
+        "avg_reward": 58.629999999999995,
+        "success_rate": 0.0,
+        "loss_A": 592.5721946763992,
+        "loss_B": 305.0394104796052,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3300,
+        "avg_reward": 72.21,
+        "success_rate": 0.1,
+        "loss_A": 512.1712847985029,
+        "loss_B": 252.270491897583,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3310,
+        "avg_reward": 82.57000000000001,
+        "success_rate": 0.0,
+        "loss_A": 507.4093579514027,
+        "loss_B": 256.0781076414734,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3320,
+        "avg_reward": 80.53999999999999,
+        "success_rate": 0.1,
+        "loss_A": 557.6398399403096,
+        "loss_B": 291.50527192616465,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3330,
+        "avg_reward": 83.19999999999999,
+        "success_rate": 0.0,
+        "loss_A": 515.4006499481201,
+        "loss_B": 260.36157345482707,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3340,
+        "avg_reward": 76.69,
+        "success_rate": 0.0,
+        "loss_A": 548.5135142294168,
+        "loss_B": 271.88865376323463,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3350,
+        "avg_reward": 75.43,
+        "success_rate": 0.0,
+        "loss_A": 536.2118053284884,
+        "loss_B": 265.3264447808266,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3360,
+        "avg_reward": 81.10000000000001,
+        "success_rate": 0.0,
+        "loss_A": 486.26767691123484,
+        "loss_B": 234.79803486135603,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3370,
+        "avg_reward": 80.47,
+        "success_rate": 0.0,
+        "loss_A": 532.4528657500744,
+        "loss_B": 260.919891335696,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3380,
+        "avg_reward": 80.04999999999998,
+        "success_rate": 0.0,
+        "loss_A": 570.1399169172645,
+        "loss_B": 285.3412879285514,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3390,
+        "avg_reward": 81.94,
+        "success_rate": 0.0,
+        "loss_A": 539.8857638124227,
+        "loss_B": 280.56193108052014,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3400,
+        "avg_reward": 78.58,
+        "success_rate": 0.0,
+        "loss_A": 561.5329403495789,
+        "loss_B": 308.2444624583125,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3410,
+        "avg_reward": 84.04,
+        "success_rate": 0.0,
+        "loss_A": 549.6034019661546,
+        "loss_B": 295.4269359371662,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3420,
+        "avg_reward": 73.39999999999999,
+        "success_rate": 0.1,
+        "loss_A": 545.2666488918067,
+        "loss_B": 292.33749313661457,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3430,
+        "avg_reward": 77.74,
+        "success_rate": 0.1,
+        "loss_A": 537.7805939255953,
+        "loss_B": 296.5198716345727,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3440,
+        "avg_reward": 74.38,
+        "success_rate": 0.0,
+        "loss_A": 571.2324290732146,
+        "loss_B": 303.5676649227589,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3450,
+        "avg_reward": 76.47999999999999,
+        "success_rate": 0.0,
+        "loss_A": 514.2946359547377,
+        "loss_B": 281.76831543266775,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3460,
+        "avg_reward": 70.09,
+        "success_rate": 0.1,
+        "loss_A": 512.3973269907236,
+        "loss_B": 279.73590774407984,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3470,
+        "avg_reward": 69.65,
+        "success_rate": 0.1,
+        "loss_A": 585.1425777168274,
+        "loss_B": 311.7117454535663,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3480,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 515.2933314175606,
+        "loss_B": 262.6150428703725,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3490,
+        "avg_reward": 78.58000000000001,
+        "success_rate": 0.0,
+        "loss_A": 552.5501928466558,
+        "loss_B": 291.5960438843444,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3500,
+        "avg_reward": 73.99,
+        "success_rate": 0.2,
+        "loss_A": 538.7135967916846,
+        "loss_B": 280.15037290108205,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3510,
+        "avg_reward": 82.99,
+        "success_rate": 0.0,
+        "loss_A": 497.1409958053827,
+        "loss_B": 256.48634689220785,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3520,
+        "avg_reward": 80.04999999999998,
+        "success_rate": 0.0,
+        "loss_A": 546.1539469023943,
+        "loss_B": 291.8310445241034,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3530,
+        "avg_reward": 73.33,
+        "success_rate": 0.0,
+        "loss_A": 567.544650841713,
+        "loss_B": 308.244349116981,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3540,
+        "avg_reward": 77.11,
+        "success_rate": 0.0,
+        "loss_A": 542.1615319586992,
+        "loss_B": 291.24504718472065,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3550,
+        "avg_reward": 78.15,
+        "success_rate": 0.1,
+        "loss_A": 476.52563865351675,
+        "loss_B": 252.70638981488347,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3560,
+        "avg_reward": 80.94999999999999,
+        "success_rate": 0.1,
+        "loss_A": 605.0598505312205,
+        "loss_B": 323.5538001772761,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3570,
+        "avg_reward": 82.57000000000001,
+        "success_rate": 0.0,
+        "loss_A": 558.0605815438032,
+        "loss_B": 300.6006021828055,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3580,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 579.3375723193884,
+        "loss_B": 308.82197236296537,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3590,
+        "avg_reward": 81.09,
+        "success_rate": 0.1,
+        "loss_A": 576.9165190547704,
+        "loss_B": 298.3117578684315,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3600,
+        "avg_reward": 79.84,
+        "success_rate": 0.0,
+        "loss_A": 602.2394811918736,
+        "loss_B": 328.9691371670812,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3610,
+        "avg_reward": 68.92,
+        "success_rate": 0.0,
+        "loss_A": 556.833525041461,
+        "loss_B": 307.99336511412264,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3620,
+        "avg_reward": 78.37,
+        "success_rate": 0.0,
+        "loss_A": 582.6922277926207,
+        "loss_B": 328.68196893590687,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3630,
+        "avg_reward": 82.10999999999999,
+        "success_rate": 0.1,
+        "loss_A": 585.4925003181696,
+        "loss_B": 326.16215230712294,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3640,
+        "avg_reward": 76.48,
+        "success_rate": 0.0,
+        "loss_A": 602.857845405221,
+        "loss_B": 330.35347547629476,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3650,
+        "avg_reward": 79.67,
+        "success_rate": 0.2,
+        "loss_A": 590.9374150116444,
+        "loss_B": 326.9695459758788,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3660,
+        "avg_reward": 60.1,
+        "success_rate": 0.0,
+        "loss_A": 510.9572891559601,
+        "loss_B": 290.80862581406535,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3670,
+        "avg_reward": 82.35999999999999,
+        "success_rate": 0.0,
+        "loss_A": 525.6208099577427,
+        "loss_B": 299.3218941807449,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3680,
+        "avg_reward": 82.99,
+        "success_rate": 0.0,
+        "loss_A": 525.2274161208868,
+        "loss_B": 298.40503465716915,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3690,
+        "avg_reward": 77.56,
+        "success_rate": 0.1,
+        "loss_A": 574.2240199609995,
+        "loss_B": 329.1984887319729,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3700,
+        "avg_reward": 78.11999999999999,
+        "success_rate": 0.1,
+        "loss_A": 599.0369863065481,
+        "loss_B": 353.25781401604416,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3710,
+        "avg_reward": 76.76,
+        "success_rate": 0.2,
+        "loss_A": 642.8495184817314,
+        "loss_B": 365.0468907094002,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3720,
+        "avg_reward": 63.459999999999994,
+        "success_rate": 0.0,
+        "loss_A": 553.9519858003855,
+        "loss_B": 306.43276439289747,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3730,
+        "avg_reward": 80.67999999999999,
+        "success_rate": 0.0,
+        "loss_A": 567.307245788455,
+        "loss_B": 306.3598251812048,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3740,
+        "avg_reward": 73.54,
+        "success_rate": 0.0,
+        "loss_A": 670.2218052620888,
+        "loss_B": 359.71427077442405,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3750,
+        "avg_reward": 71.22999999999999,
+        "success_rate": 0.0,
+        "loss_A": 661.0105452711582,
+        "loss_B": 354.11058941102027,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3760,
+        "avg_reward": 79.21000000000001,
+        "success_rate": 0.0,
+        "loss_A": 597.7359458050728,
+        "loss_B": 334.4723219950348,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3770,
+        "avg_reward": 69.76,
+        "success_rate": 0.0,
+        "loss_A": 600.8642121434211,
+        "loss_B": 336.9190963814557,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3780,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 650.3548817003965,
+        "loss_B": 353.00404318302867,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3790,
+        "avg_reward": 80.8,
+        "success_rate": 0.1,
+        "loss_A": 673.039430773139,
+        "loss_B": 361.24976656256615,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3800,
+        "avg_reward": 77.11,
+        "success_rate": 0.0,
+        "loss_A": 584.6801528376341,
+        "loss_B": 305.0675718628019,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3810,
+        "avg_reward": 72.07,
+        "success_rate": 0.0,
+        "loss_A": 575.4348762369156,
+        "loss_B": 291.510542737186,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3820,
+        "avg_reward": 54.42999999999999,
+        "success_rate": 0.0,
+        "loss_A": 583.8636076065302,
+        "loss_B": 291.96015191653373,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3830,
+        "avg_reward": 70.60000000000001,
+        "success_rate": 0.0,
+        "loss_A": 567.7833282706738,
+        "loss_B": 293.84346987348795,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3840,
+        "avg_reward": 80.88999999999999,
+        "success_rate": 0.0,
+        "loss_A": 553.4226208429336,
+        "loss_B": 301.91822195148467,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3850,
+        "avg_reward": 76.69,
+        "success_rate": 0.0,
+        "loss_A": 619.4046083475351,
+        "loss_B": 344.8976854318231,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3860,
+        "avg_reward": 73.73,
+        "success_rate": 0.1,
+        "loss_A": 596.057923174858,
+        "loss_B": 332.5708074964583,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3870,
+        "avg_reward": 80.47,
+        "success_rate": 0.0,
+        "loss_A": 574.7029440395833,
+        "loss_B": 333.6947875775099,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3880,
+        "avg_reward": 71.01999999999998,
+        "success_rate": 0.0,
+        "loss_A": 593.6312463743686,
+        "loss_B": 338.51036549171806,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3890,
+        "avg_reward": 80.43999999999998,
+        "success_rate": 0.1,
+        "loss_A": 527.4985424271822,
+        "loss_B": 306.74028157097104,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3900,
+        "avg_reward": 77.99,
+        "success_rate": 0.1,
+        "loss_A": 555.0755461909771,
+        "loss_B": 328.77924455958606,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3910,
+        "avg_reward": 81.31,
+        "success_rate": 0.0,
+        "loss_A": 553.7349963375926,
+        "loss_B": 332.3359792991579,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3920,
+        "avg_reward": 80.05,
+        "success_rate": 0.0,
+        "loss_A": 529.2695645091534,
+        "loss_B": 307.85852996774764,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3930,
+        "avg_reward": 75.43,
+        "success_rate": 0.0,
+        "loss_A": 581.3465529447794,
+        "loss_B": 341.2460776802227,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3940,
+        "avg_reward": 77.95,
+        "success_rate": 0.0,
+        "loss_A": 527.842551535368,
+        "loss_B": 314.8248454212695,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3950,
+        "avg_reward": 69.55000000000001,
+        "success_rate": 0.0,
+        "loss_A": 545.8783418580293,
+        "loss_B": 324.79920120981336,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3960,
+        "avg_reward": 71.85999999999999,
+        "success_rate": 0.1,
+        "loss_A": 540.4810719050168,
+        "loss_B": 319.0194065591395,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3970,
+        "avg_reward": 73.32999999999998,
+        "success_rate": 0.0,
+        "loss_A": 545.5570162132383,
+        "loss_B": 318.1164536661059,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3980,
+        "avg_reward": 70.81,
+        "success_rate": 0.0,
+        "loss_A": 558.8273931734562,
+        "loss_B": 339.9780818952918,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 3990,
+        "avg_reward": 78.16,
+        "success_rate": 0.0,
+        "loss_A": 560.9880371184349,
+        "loss_B": 335.7304573495388,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4000,
+        "avg_reward": 76.76,
+        "success_rate": 0.2,
+        "loss_A": 625.8758621666432,
+        "loss_B": 374.76870370294154,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4010,
+        "avg_reward": 80.05,
+        "success_rate": 0.0,
+        "loss_A": 534.0403943139314,
+        "loss_B": 322.07333469545097,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4020,
+        "avg_reward": 78.91,
+        "success_rate": 0.1,
+        "loss_A": 627.2032095066309,
+        "loss_B": 365.12864238150416,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4030,
+        "avg_reward": 76.27,
+        "success_rate": 0.0,
+        "loss_A": 605.2142302464247,
+        "loss_B": 359.1741911318004,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4040,
+        "avg_reward": 81.94,
+        "success_rate": 0.0,
+        "loss_A": 589.7624289807081,
+        "loss_B": 351.3558993561715,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4050,
+        "avg_reward": 70.89,
+        "success_rate": 0.1,
+        "loss_A": 598.785249678731,
+        "loss_B": 357.96532478499415,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4060,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 564.7696974266768,
+        "loss_B": 325.8749679686427,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4070,
+        "avg_reward": 47.28999999999999,
+        "success_rate": 0.0,
+        "loss_A": 592.9270950925351,
+        "loss_B": 339.9013576449305,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4080,
+        "avg_reward": 74.59,
+        "success_rate": 0.0,
+        "loss_A": 496.23659232711793,
+        "loss_B": 284.01588307118413,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4090,
+        "avg_reward": 79.84,
+        "success_rate": 0.0,
+        "loss_A": 588.0533198046684,
+        "loss_B": 327.8789002869427,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4100,
+        "avg_reward": 83.20000000000002,
+        "success_rate": 0.0,
+        "loss_A": 597.9400246020556,
+        "loss_B": 341.50530282101033,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4110,
+        "avg_reward": 76.05999999999999,
+        "success_rate": 0.0,
+        "loss_A": 564.9413315104246,
+        "loss_B": 329.75841755494474,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4120,
+        "avg_reward": 79.21000000000001,
+        "success_rate": 0.0,
+        "loss_A": 552.4406189080477,
+        "loss_B": 325.30546685528753,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4130,
+        "avg_reward": 72.91,
+        "success_rate": 0.0,
+        "loss_A": 560.415846396923,
+        "loss_B": 342.83820924726126,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4140,
+        "avg_reward": 80.47,
+        "success_rate": 0.0,
+        "loss_A": 568.2804621996879,
+        "loss_B": 342.3303755207062,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4150,
+        "avg_reward": 74.16999999999999,
+        "success_rate": 0.0,
+        "loss_A": 541.6613567217588,
+        "loss_B": 322.7076505170688,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4160,
+        "avg_reward": 83.2,
+        "success_rate": 0.0,
+        "loss_A": 524.2149861068725,
+        "loss_B": 323.4781232256293,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4170,
+        "avg_reward": 80.67999999999999,
+        "success_rate": 0.0,
+        "loss_A": 485.8038325865269,
+        "loss_B": 306.0220703843311,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4180,
+        "avg_reward": 68.71,
+        "success_rate": 0.0,
+        "loss_A": 575.4082260704637,
+        "loss_B": 372.58321300521493,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4190,
+        "avg_reward": 79.41999999999999,
+        "success_rate": 0.0,
+        "loss_A": 598.7964507180452,
+        "loss_B": 402.76110875056685,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4200,
+        "avg_reward": 78.87,
+        "success_rate": 0.1,
+        "loss_A": 584.0986584620475,
+        "loss_B": 380.19719374333323,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4210,
+        "avg_reward": 80.88999999999999,
+        "success_rate": 0.0,
+        "loss_A": 519.1219577015638,
+        "loss_B": 329.38460221402346,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4220,
+        "avg_reward": 83.61999999999999,
+        "success_rate": 0.0,
+        "loss_A": 505.09477422487737,
+        "loss_B": 319.7840978654176,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4230,
+        "avg_reward": 72.07000000000002,
+        "success_rate": 0.0,
+        "loss_A": 535.9147413101197,
+        "loss_B": 350.9753717894852,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4240,
+        "avg_reward": 72.28,
+        "success_rate": 0.0,
+        "loss_A": 630.2399821807146,
+        "loss_B": 400.94060517154634,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4250,
+        "avg_reward": 79.42,
+        "success_rate": 0.0,
+        "loss_A": 566.7164235401153,
+        "loss_B": 363.2665674863011,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4260,
+        "avg_reward": 83.62,
+        "success_rate": 0.0,
+        "loss_A": 486.84771401917936,
+        "loss_B": 306.58133343300966,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4270,
+        "avg_reward": 83.16,
+        "success_rate": 0.2,
+        "loss_A": 510.0415654141903,
+        "loss_B": 324.1802431218028,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4280,
+        "avg_reward": 78.16,
+        "success_rate": 0.0,
+        "loss_A": 540.5980481165648,
+        "loss_B": 342.26514921405914,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4290,
+        "avg_reward": 82.15,
+        "success_rate": 0.0,
+        "loss_A": 539.6704968770147,
+        "loss_B": 348.9850225536823,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4300,
+        "avg_reward": 80.88999999999999,
+        "success_rate": 0.0,
+        "loss_A": 478.22527053928377,
+        "loss_B": 307.2422212492228,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4310,
+        "avg_reward": 83.41,
+        "success_rate": 0.0,
+        "loss_A": 508.1585014544725,
+        "loss_B": 322.1064433116019,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4320,
+        "avg_reward": 81.72999999999999,
+        "success_rate": 0.0,
+        "loss_A": 574.3421109389662,
+        "loss_B": 363.9088945709169,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4330,
+        "avg_reward": 77.73999999999998,
+        "success_rate": 0.0,
+        "loss_A": 505.6237212558985,
+        "loss_B": 309.649497681126,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4340,
+        "avg_reward": 76.05999999999999,
+        "success_rate": 0.0,
+        "loss_A": 594.8250636823177,
+        "loss_B": 357.65761008191106,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4350,
+        "avg_reward": 77.95,
+        "success_rate": 0.0,
+        "loss_A": 512.5787536989451,
+        "loss_B": 310.8854649793059,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4360,
+        "avg_reward": 80.88999999999999,
+        "success_rate": 0.0,
+        "loss_A": 527.7732983369232,
+        "loss_B": 330.8817479774803,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4370,
+        "avg_reward": 75.00999999999999,
+        "success_rate": 0.0,
+        "loss_A": 502.39551426029203,
+        "loss_B": 318.44886196413637,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4380,
+        "avg_reward": 82.57000000000002,
+        "success_rate": 0.0,
+        "loss_A": 518.0588831931352,
+        "loss_B": 331.84514121484756,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4390,
+        "avg_reward": 75.22,
+        "success_rate": 0.0,
+        "loss_A": 546.3976267771125,
+        "loss_B": 334.59229126159846,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4400,
+        "avg_reward": 80.25999999999999,
+        "success_rate": 0.0,
+        "loss_A": 491.7403172568083,
+        "loss_B": 303.81094641470906,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4410,
+        "avg_reward": 76.06,
+        "success_rate": 0.0,
+        "loss_A": 531.6116623096466,
+        "loss_B": 331.12771485985814,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4420,
+        "avg_reward": 80.67999999999999,
+        "success_rate": 0.0,
+        "loss_A": 548.2900293442011,
+        "loss_B": 345.69907796895507,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4430,
+        "avg_reward": 82.15,
+        "success_rate": 0.0,
+        "loss_A": 518.1214284882545,
+        "loss_B": 328.1330550462492,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4440,
+        "avg_reward": 81.94,
+        "success_rate": 0.0,
+        "loss_A": 554.9552860479355,
+        "loss_B": 352.8714061631262,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4450,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 525.3045237351656,
+        "loss_B": 324.5791555138528,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4460,
+        "avg_reward": 83.19999999999999,
+        "success_rate": 0.0,
+        "loss_A": 517.1142124375104,
+        "loss_B": 313.42880477992446,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4470,
+        "avg_reward": 83.2,
+        "success_rate": 0.0,
+        "loss_A": 504.58335150372983,
+        "loss_B": 299.1401938469708,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4480,
+        "avg_reward": 76.47999999999999,
+        "success_rate": 0.0,
+        "loss_A": 528.733250868678,
+        "loss_B": 305.337371877715,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4490,
+        "avg_reward": 79.21000000000001,
+        "success_rate": 0.0,
+        "loss_A": 487.19762294435503,
+        "loss_B": 285.02528300473097,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4500,
+        "avg_reward": 82.56999999999998,
+        "success_rate": 0.0,
+        "loss_A": 517.7059455857277,
+        "loss_B": 307.0052115533203,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4510,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 549.915388466835,
+        "loss_B": 325.1922761387974,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4520,
+        "avg_reward": 75.85,
+        "success_rate": 0.0,
+        "loss_A": 579.0562926108241,
+        "loss_B": 339.3260924703032,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4530,
+        "avg_reward": 77.32000000000001,
+        "success_rate": 0.0,
+        "loss_A": 581.498500028491,
+        "loss_B": 333.0510755546987,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4540,
+        "avg_reward": 80.26,
+        "success_rate": 0.0,
+        "loss_A": 553.8378843936324,
+        "loss_B": 306.911395974189,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4550,
+        "avg_reward": 77.11,
+        "success_rate": 0.0,
+        "loss_A": 562.9640182048082,
+        "loss_B": 315.4007894534171,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4560,
+        "avg_reward": 77.95,
+        "success_rate": 0.0,
+        "loss_A": 584.8084933161736,
+        "loss_B": 333.75301407581566,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4570,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 517.0327669144868,
+        "loss_B": 285.01010220158844,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4580,
+        "avg_reward": 73.75,
+        "success_rate": 0.0,
+        "loss_A": 496.76962045258284,
+        "loss_B": 281.17710879948737,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4590,
+        "avg_reward": 72.91,
+        "success_rate": 0.0,
+        "loss_A": 488.94397819697855,
+        "loss_B": 275.7782525666803,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4600,
+        "avg_reward": 75.01,
+        "success_rate": 0.0,
+        "loss_A": 554.7465968268514,
+        "loss_B": 311.77210194914045,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4610,
+        "avg_reward": 81.33,
+        "success_rate": 0.1,
+        "loss_A": 505.9877263776362,
+        "loss_B": 282.5564107118845,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4620,
+        "avg_reward": 76.89999999999999,
+        "success_rate": 0.0,
+        "loss_A": 563.9695332936049,
+        "loss_B": 316.43544830650836,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4630,
+        "avg_reward": 82.15,
+        "success_rate": 0.0,
+        "loss_A": 524.0704604022503,
+        "loss_B": 291.2983983099908,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4640,
+        "avg_reward": 81.1,
+        "success_rate": 0.0,
+        "loss_A": 498.4882121580839,
+        "loss_B": 283.1971244839728,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4650,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 527.8486176057457,
+        "loss_B": 303.6942303301096,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4660,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 544.1555131342411,
+        "loss_B": 312.07820719829203,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4670,
+        "avg_reward": 79.66999999999999,
+        "success_rate": 0.1,
+        "loss_A": 535.2833242928385,
+        "loss_B": 305.5817349739596,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4680,
+        "avg_reward": 77.11,
+        "success_rate": 0.0,
+        "loss_A": 510.04931721830366,
+        "loss_B": 289.658571792081,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4690,
+        "avg_reward": 75.22,
+        "success_rate": 0.0,
+        "loss_A": 506.65199276793004,
+        "loss_B": 289.5720870060921,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4700,
+        "avg_reward": 81.72999999999999,
+        "success_rate": 0.0,
+        "loss_A": 489.8186423687339,
+        "loss_B": 278.901952257514,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4710,
+        "avg_reward": 77.74,
+        "success_rate": 0.0,
+        "loss_A": 560.4267135819197,
+        "loss_B": 328.08799388793113,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4720,
+        "avg_reward": 81.94000000000001,
+        "success_rate": 0.0,
+        "loss_A": 472.05038033741715,
+        "loss_B": 268.1799995084703,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4730,
+        "avg_reward": 82.15,
+        "success_rate": 0.0,
+        "loss_A": 509.5784553104043,
+        "loss_B": 292.1145880953371,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4740,
+        "avg_reward": 82.78,
+        "success_rate": 0.0,
+        "loss_A": 503.43259433573485,
+        "loss_B": 300.93909434501825,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4750,
+        "avg_reward": 79.84,
+        "success_rate": 0.0,
+        "loss_A": 516.2952115980387,
+        "loss_B": 307.10541447994115,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4760,
+        "avg_reward": 81.52000000000001,
+        "success_rate": 0.0,
+        "loss_A": 497.2904850665331,
+        "loss_B": 304.69320799621937,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4770,
+        "avg_reward": 82.35999999999999,
+        "success_rate": 0.0,
+        "loss_A": 523.9169352493286,
+        "loss_B": 316.6236592966169,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4780,
+        "avg_reward": 71.02,
+        "success_rate": 0.0,
+        "loss_A": 506.4909918219447,
+        "loss_B": 317.5463260388672,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4790,
+        "avg_reward": 72.7,
+        "success_rate": 0.0,
+        "loss_A": 523.1843070831299,
+        "loss_B": 312.3053573718816,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4800,
+        "avg_reward": 69.55,
+        "success_rate": 0.0,
+        "loss_A": 497.72172081959246,
+        "loss_B": 287.21567989820244,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4810,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 479.2198905047774,
+        "loss_B": 283.2313039868921,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4820,
+        "avg_reward": 82.14999999999999,
+        "success_rate": 0.0,
+        "loss_A": 451.32620469164846,
+        "loss_B": 261.2920709261,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4830,
+        "avg_reward": 70.38999999999999,
+        "success_rate": 0.0,
+        "loss_A": 509.36064300578835,
+        "loss_B": 297.474168607071,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4840,
+        "avg_reward": 74.58999999999999,
+        "success_rate": 0.0,
+        "loss_A": 513.8534963865578,
+        "loss_B": 306.8800751348138,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4850,
+        "avg_reward": 77.34,
+        "success_rate": 0.1,
+        "loss_A": 510.542094869256,
+        "loss_B": 300.4214127496034,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4860,
+        "avg_reward": 74.88000000000001,
+        "success_rate": 0.2,
+        "loss_A": 525.9388345463276,
+        "loss_B": 315.88269237011673,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4870,
+        "avg_reward": 83.85999999999999,
+        "success_rate": 0.1,
+        "loss_A": 491.6446121723056,
+        "loss_B": 305.5950323535502,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4880,
+        "avg_reward": 79.42,
+        "success_rate": 0.0,
+        "loss_A": 496.5950586418509,
+        "loss_B": 308.35096665030716,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4890,
+        "avg_reward": 77.53,
+        "success_rate": 0.0,
+        "loss_A": 481.10260307991507,
+        "loss_B": 293.4856334260851,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4900,
+        "avg_reward": 82.99,
+        "success_rate": 0.0,
+        "loss_A": 490.24264690577985,
+        "loss_B": 298.9438567802608,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4910,
+        "avg_reward": 73.11999999999999,
+        "success_rate": 0.0,
+        "loss_A": 461.3791387243271,
+        "loss_B": 267.3547376584411,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4920,
+        "avg_reward": 79.41999999999999,
+        "success_rate": 0.0,
+        "loss_A": 470.4995033942461,
+        "loss_B": 281.9556904194653,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4930,
+        "avg_reward": 80.67999999999999,
+        "success_rate": 0.0,
+        "loss_A": 454.8033326163888,
+        "loss_B": 274.4008426900208,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4940,
+        "avg_reward": 82.15,
+        "success_rate": 0.0,
+        "loss_A": 505.02827816426753,
+        "loss_B": 302.94905429980156,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4950,
+        "avg_reward": 81.73,
+        "success_rate": 0.0,
+        "loss_A": 505.47830320334435,
+        "loss_B": 309.38535248233376,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4960,
+        "avg_reward": 74.59,
+        "success_rate": 0.0,
+        "loss_A": 475.9266501330137,
+        "loss_B": 300.231279545635,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4970,
+        "avg_reward": 82.57,
+        "success_rate": 0.0,
+        "loss_A": 509.7534780601263,
+        "loss_B": 324.1331651444584,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4980,
+        "avg_reward": 78.99999999999999,
+        "success_rate": 0.0,
+        "loss_A": 451.1074678037763,
+        "loss_B": 303.5865451432094,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 4990,
+        "avg_reward": 69.55,
+        "success_rate": 0.0,
+        "loss_A": 496.6946970589757,
+        "loss_B": 324.21265733656287,
+        "epsilon": 0.05
+    },
+    {
+        "episode": 5000,
+        "avg_reward": 82.36,
+        "success_rate": 0.0,
+        "loss_A": 471.65848040044307,
+        "loss_B": 293.7504062539637,
+        "epsilon": 0.05
+    }
+]

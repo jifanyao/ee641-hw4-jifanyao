@@ -1,0 +1,8 @@
+{
+    "vi_iterations": 31,
+    "qi_iterations": 31,
+    "vi_convergence_time": 0.011943817138671875,
+    "qi_convergence_time": 0.027086734771728516,
+    "policies_match": true,
+    "max_value_diff": 0.0
+}
